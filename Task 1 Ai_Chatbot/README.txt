@@ -1,12 +1,7 @@
 Task 1 – Rule-Based AI Chatbot
 
-This is a basic rule-based chatbot built using Python.  
-It responds to user input with predefined replies using simple if-else conditions.
-
 
 Objective
-
-Task 1
 
 To create a chatbot that can hold a basic conversation and answer common questions.  
 This helped me understand how chat-based logic flows using conditional statements.
