@@ -2,6 +2,8 @@
 
 Task 2 To Create A Tic Tac Toe AI bot
 
+objective
+
 To develop a smart AI agent for the game of Tic-Tac-Toe that can never be beaten.  
 This helped me understand how recursive search and decision-making works in turn-based games.
 
