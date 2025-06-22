@@ -4,13 +4,6 @@ This is a basic rule-based chatbot built using Python.
 It responds to user input with predefined replies using simple if-else conditions.
 
 
- Problem Statement
-
-Build a simple chatbot that responds to user inputs based on predefined rules.  
-Use if-else statements or pattern matching techniques to identify user queries and provide appropriate responses.  
-This will give you a basic understanding of natural language processing and conversation flo
-
-
 Objective
 
 Task 1
