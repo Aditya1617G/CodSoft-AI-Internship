@@ -1,0 +1,22 @@
+Chatbot: Hello! I'm your AI assistant. Type 'bye' to end the chat.
+
+You: hello  
+Chatbot: Hello there! How can I help you?
+
+You: how are you  
+Chatbot: I'm doing great! Thanks for asking. What about you?
+
+You: what's your name  
+Chatbot: I'm a rule-based chatbot created by Aditya during CodSoft Internship.
+
+You: what is codsoft  
+Chatbot: CodSoft is an amazing internship platform for beginners in AI and tech!
+
+You: what can you do  
+Chatbot: I can chat, respond to greetings, and answer basic questions. Try asking me something!
+
+You: who made you  
+Chatbot: I was developed by Aditya as part of his CodSoft AI internship project.
+
+You: bye  
+Chatbot: Goodbye! Have a great day
