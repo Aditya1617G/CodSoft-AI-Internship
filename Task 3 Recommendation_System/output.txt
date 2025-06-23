@@ -1,8 +1,0 @@
-Enter a movie title: Inception
-
-Because you watched 'Inception', you might also like:
-1. The Matrix
-2. Avengers: Endgame
-3. Interstellar
-
-Press Enter to exit...
