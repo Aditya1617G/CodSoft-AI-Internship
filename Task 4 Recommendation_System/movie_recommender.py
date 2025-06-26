@@ -56,4 +56,8 @@ else:
     else:
         print("\nNo recommendations found. Try another movie from the list.")
 
-input("\nPress Enter to exit...")
+# Safe exit for both interactive and non-interactive environments
+try:
+    input("\nPress Enter to exit...")
+except EOFError:
+    pass
