@@ -45,7 +45,7 @@ This internship helped me practically apply my AI knowledge and build real-world
 
 # Contact
 
-- Name: Adi  
+- Name: Aditya Chopra
 - GitHub: https://github.com/Aditya1617G  
 - Email: adiizhere777@gmail.com  
 - LinkedIn: [www.linkedin.com/in/aditya-chopra-0727a5370](https://linkedin.com/in/aditya-chopra-0727a5370)
