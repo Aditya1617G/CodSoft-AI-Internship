@@ -28,8 +28,8 @@ def recommend(movie_title, movies, similarity_matrix, top_n=3):
     movies["title_lower"] = movies["title"].str.strip().str.lower()
     
     if movie_title not in movies["title_lower"].values:
-        print(f"\n❌ Sorry, the movie '{movie_title}' was not found in our dataset.")
-        print("🎬 Available movies:")
+        print(f"\nSorry, the movie '{movie_title}' was not found in our dataset.")
+        print("Available movies:")
         for title in movies["title"]:
             print(" -", title)
         return None
@@ -42,18 +42,18 @@ def recommend(movie_title, movies, similarity_matrix, top_n=3):
     return top_movies
 
 # User input and results
-user_input = input("🎥 Enter a movie title: ").strip()
+user_input = input("Enter a movie title: ").strip()
 
 if not user_input:
-    print("⚠️ No input provided. Please try again.")
+    print("No input provided. Please try again.")
 else:
     recommendations = recommend(user_input, movies, similarity)
 
     if recommendations:
-        print(f"\n📽️ Because you watched '{user_input}', you might also like:")
+        print(f"\nBecause you watched '{user_input}', you might also like:")
         for i, rec in enumerate(recommendations, 1):
             print(f"{i}. {rec}")
     else:
-        print("\n🔍 No recommendations found. Try another movie from the list.")
+        print("\nNo recommendations found. Try another movie from the list.")
 
 input("\nPress Enter to exit...")
