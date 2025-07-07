@@ -39,6 +39,7 @@ What I Learned:
 - Basics of building a content-based recommendation system.
 - Handling user input and searching within a dataset.
 - Practical usage of pandas and scikit-learn libraries.
+- How to use fuzzy logic
 
 
 Name: Aditya  
